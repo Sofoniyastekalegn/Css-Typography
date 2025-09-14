@@ -34,4 +34,24 @@ section {
   background-color: #eeeeee;
   padding: 1.8em;
 }
-block
+
+blockquote {
+  margin: 0;
+}
+
+span {
+  width: 85px;
+  height: 80px;
+  display: block;
+  background: gray;
+  border-radius: 50%;
+  margin: 0 auto;
+
+
+}
+
+cite {
+  font-style: normal;
+  font-family: "Amatic SC", cursive;
+  font-size: 1.4em;
+}

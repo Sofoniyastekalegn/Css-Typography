@@ -62,5 +62,16 @@ h1, p, blockquote p, cite {
 }
 
 h1 {
-  font-size: 
+  font-size: 2em;
+}
+
+blockquote p {
+  line-height: 1.5em;
+
+}
+
+cite {
+  font-size: .7em;
+  font-weight: bold;
+  color: #373737;
 }
